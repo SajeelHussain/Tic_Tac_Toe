@@ -2,6 +2,9 @@
 
 A modern, interactive Tic Tac Toe game built with React.
 
+## Live Demo
+Play the game online: [https://taupe-maamoul-94619f.netlify.app/](https://taupe-maamoul-94619f.netlify.app/)
+
 ## Project Overview
 This project is a classic Tic Tac Toe game where two players take turns marking X and O on a 3x3 grid. The first player to align three of their marks vertically, horizontally, or diagonally wins. The game also tracks move history, allowing players to "time travel" to any previous move and continue playing from that point.
 
@@ -10,6 +13,7 @@ This project is a classic Tic Tac Toe game where two players take turns marking 
 - **Move History:** See a list of all moves made. You can jump back to any previous state of the game and replay from there.
 - **Winner Announcement:** The game detects when a player has won and announces the winner.
 - **React Components:** The app is structured using functional React components and hooks for state management.
+- **Modern Styling:** Enhanced, responsive design for a better user experience.
 
 ## How It Works
 - The main game logic is handled in the `Game` component, which manages the board state and move history.
